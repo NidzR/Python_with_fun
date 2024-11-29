@@ -1,6 +1,3 @@
-# Python_with_fun
- Some funny codes for practice & understanding purpose 
-
 Yahan aapke liye tamam projects ki **name list**, **explanation**, aur **required installations** ke saath **kaam karne ka tareeqa** diya gaya hai. Har project ko detail mein samjhaya gaya hai.
 
 ---
